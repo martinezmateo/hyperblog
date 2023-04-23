@@ -2,7 +2,33 @@ body
 {
     color:#333;
     text-align: center;
+
     font-family: Verdana ;
+=======
+    font-family: "Arial";
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+
+}
+#Cabecera
+{
+background-color: #271ed3;
+box-shadow:0px 2px 20px 0px #cf0f0f (0,0,0,0.5);
+color:white ;
+font-weight: bold;
+margin: 0;
+padding: 0em;
+
+
+}
+#Cabecera #tagline
+
+{
+    padding: 0 0 0 1em ;
+    font-weight: normal;
+    font-size: 0.8em;
+
 
 }
 #container
