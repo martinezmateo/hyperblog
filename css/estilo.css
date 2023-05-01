@@ -43,3 +43,18 @@ padding: 0em;
 {
     font-size: 20px;
 }
+
+#post
+{
+padding: 1em;
+}
+
+#footer
+{
+background : blue;
+color: white;
+text-align: center;
+padding: 0.5em;
+}
+
+	
