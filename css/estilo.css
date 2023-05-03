@@ -49,11 +49,19 @@ font-size: 0.8em;
 #container h1
 {
     font-size: 20px;
-
 }
 
-#post 
+#post
 {
-    background: rgb(243, 237, 237);
-    padding: 1em;
+padding: 1em;
 }
+
+#footer
+{
+background : blue;
+color: white;
+text-align: center;
+padding: 0.5em;
+}
+
+	
