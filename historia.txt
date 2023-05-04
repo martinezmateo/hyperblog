@@ -3,12 +3,6 @@ Hola Esta es Leidy en el repositorio de Mateooormin
 
 esta es la historia de mateo
 
-<<<<<<< HEAD
-master 1 
+master1
 
-
-se hace el cambio de master 
-
-=======
->>>>>>> parent of 2a7d482 (master1)
 mateo tiene 30 años y nacio en bucarmanga 
