@@ -9,6 +9,8 @@ tenemos varidedad de juegos super increibles y hermosos los que son
 *hacer mejores atajos en los juegos*
 *como ser pro siempre*
 *cuidadado con los mancos* 
+*incluye ejemplos en wondows y mac *
+*disponible para todas las edades*
 
 consejo sigue adelante si vez que algo no avanza y intentaste suficiente 
 intenta con algo mas seguro para tu vida.
