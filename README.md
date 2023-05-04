@@ -8,6 +8,7 @@ tenemos varidedad de juegos super increibles y hermosos los que son
 *como hacer rush mas agrecibos *
 *hacer mejores atajos en los juegos*
 *como ser pro siempre*
+*cuidadado con los mancos* 
 
 consejo sigue adelante si vez que algo no avanza y intentaste suficiente 
 intenta con algo mas seguro para tu vida.
