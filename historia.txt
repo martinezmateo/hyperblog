@@ -7,4 +7,6 @@ master 1
 
 master 2 
 
+se hace el cambio de master 
+
 mateo tiene 30 años y nacio en bucarmanga 
