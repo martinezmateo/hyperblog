@@ -5,7 +5,6 @@ esta es la historia de mateo
 
 master 1 
 
-master 2 
 
 se hace el cambio de master 
 
